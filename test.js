@@ -1,5 +1,4 @@
-// From: https://benchmarkjs.com/
-
+// Originally from: https://benchmarkjs.com/
 
 console.log("Benchmark.platform:");
 for (let key in Benchmark.platform) {
